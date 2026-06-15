@@ -1,0 +1,51 @@
+[
+  {
+    "id": "tip_w0_malish",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6"],
+    "category": "care",
+    "title": "Oil malish before bath",
+    "body": "A gentle daily oil massage in a warm room is a calming, bonding routine in many Indian homes. Use light strokes, avoid pressing on the soft spot, and follow with a warm bath."
+  },
+  {
+    "id": "tip_w0_feeding",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6", "w7_9", "w10_13", "m3", "m4", "m5"],
+    "category": "feeding",
+    "title": "Only milk until 6 months",
+    "body": "For the first 6 completed months, breastmilk (or formula) is all your baby needs — no water, honey, or solids. The IAP and WHO recommend exclusive breastfeeding through this stage."
+  },
+  {
+    "id": "tip_m6_starting_solids",
+    "ageBuckets": ["m6"],
+    "category": "feeding",
+    "title": "Starting solids (around 6 months)",
+    "body": "Begin once baby sits with support and shows interest. Start with single, smooth foods — ragi porridge, moong dal water, mashed banana, sweet potato, or soft rice-dal khichdi. Introduce one new food every 3 days and watch for reactions. Milk stays the main feed. Avoid added sugar, salt, and honey."
+  },
+  {
+    "id": "tip_m6_annaprashan",
+    "ageBuckets": ["m6", "m7"],
+    "category": "culture",
+    "title": "Annaprashan — first foods",
+    "body": "Many families celebrate baby's first solid food with annaprashan. It's a lovely milestone — enjoy it, and keep first tastes soft, simple, and unsalted."
+  },
+  {
+    "id": "tip_m8_textures",
+    "ageBuckets": ["m8", "m9"],
+    "category": "feeding",
+    "title": "Move to lumpier textures",
+    "body": "Around 8–9 months, progress from smooth purées to mashed and lumpy foods — soft khichdi, mashed dal-rice, well-cooked vegetable pieces. Offer a variety of family flavours (mildly spiced, no extra salt)."
+  },
+  {
+    "id": "tip_m10_family_food",
+    "ageBuckets": ["m10", "m11", "m12"],
+    "category": "feeding",
+    "title": "Towards family meals",
+    "body": "By now baby can share soft versions of family food — idli, soft roti pieces, dal-chawal, steamed vegetables. Encourage self-feeding and offer a cup of water with meals. Keep it low-salt and low-sugar."
+  },
+  {
+    "id": "tip_all_choking",
+    "ageBuckets": ["m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+    "category": "safety",
+    "title": "Watch for choking hazards",
+    "body": "Always supervise eating. Avoid whole nuts, whole grapes, hard raw vegetables, and round or sticky foods. Cut food small and soft, and keep small objects and toy parts out of reach while baby explores by mouth."
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "id": "act_tummy_time",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6"],
+    "domains": ["motor"],
+    "title": "First tummy time",
+    "summary": "Short, supervised tummy time builds neck and shoulder strength.",
+    "steps": [
+      "Lay your baby tummy-down on a firm, flat surface or across your lap.",
+      "Get down to their level and talk or sing to encourage them to lift their head.",
+      "Start with 1–2 minutes, a few times a day, and build up gradually.",
+      "Always stay with them and stop if they get upset."
+    ],
+    "whyItHelps": "Strengthens the muscles babies need to lift their head, roll, and eventually sit.",
+    "image": "tummy_time",
+    "durationMin": 3
+  },
+  {
+    "id": "act_face_gazing",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6"],
+    "domains": ["social", "cognitive"],
+    "title": "Face-to-face gazing",
+    "summary": "Hold your face close and let your baby study you.",
+    "steps": [
+      "Hold your baby about 8–12 inches from your face during a calm, alert moment.",
+      "Make eye contact, smile, and slowly change your expressions.",
+      "Talk softly and pause to give them a turn to respond."
+    ],
+    "whyItHelps": "Newborns see best up close; faces are their favorite way to learn about the world and bond.",
+    "image": "face_gazing",
+    "durationMin": 5
+  },
+  {
+    "id": "act_contrast_cards",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6", "w7_9"],
+    "domains": ["cognitive"],
+    "title": "High-contrast viewing",
+    "summary": "Show bold black-and-white patterns to engage developing vision.",
+    "steps": [
+      "Hold a high-contrast card or book about 8–12 inches away.",
+      "Slowly move it side to side and watch if their eyes follow.",
+      "Pause on patterns they seem to like."
+    ],
+    "whyItHelps": "Bold contrast is easiest for newborn vision to focus on and encourages visual tracking.",
+    "image": "contrast_cards",
+    "durationMin": 4
+  },
+  {
+    "id": "act_talk_sing",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6", "w7_9", "w10_13"],
+    "domains": ["language"],
+    "title": "Talk and sing through the day",
+    "summary": "Narrate everyday moments to bathe your baby in language.",
+    "steps": [
+      "Describe what you're doing as you change, feed, or carry them — in your mother tongue.",
+      "Use a warm, sing-song voice and exaggerated expressions; a lori (lullaby) works beautifully.",
+      "Pause often so they can coo or react back."
+    ],
+    "whyItHelps": "Hearing lots of warm, responsive speech builds the foundation for language. A multilingual home is an asset, not a confusion.",
+    "image": "talk_sing",
+    "durationMin": 5
+  },
+  {
+    "id": "act_smile_response",
+    "ageBuckets": ["w4_6", "w7_9", "w10_13"],
+    "domains": ["social"],
+    "title": "Smile and respond",
+    "summary": "Reward your baby's smiles and coos with your own.",
+    "steps": [
+      "When your baby smiles or coos, smile and coo back.",
+      "Leave a pause for them to take another turn.",
+      "Keep the back-and-forth going as long as they're enjoying it."
+    ],
+    "whyItHelps": "These 'serve and return' exchanges build social skills and secure attachment.",
+    "image": "smile_response",
+    "durationMin": 5
+  },
+  {
+    "id": "act_rattle_track",
+    "ageBuckets": ["w4_6", "w7_9", "w10_13"],
+    "domains": ["cognitive", "motor"],
+    "title": "Follow the rattle",
+    "summary": "Move a rattle slowly so your baby tracks it with their eyes.",
+    "steps": [
+      "Hold a rattle about a foot from your baby's face.",
+      "Shake it gently, then move it slowly side to side and up and down.",
+      "Encourage them to follow and, later, to swipe at it."
+    ],
+    "whyItHelps": "Builds visual tracking and links sight, sound, and reaching.",
+    "image": "rattle_track",
+    "durationMin": 4
+  },
+  {
+    "id": "act_mirror_tummy",
+    "ageBuckets": ["w7_9", "w10_13", "m3"],
+    "domains": ["motor", "cognitive"],
+    "title": "Mirror tummy time",
+    "summary": "An unbreakable mirror makes tummy time more inviting.",
+    "steps": [
+      "Place a baby-safe mirror upright in front of your baby during tummy time.",
+      "Point to the 'baby' in the mirror and talk about it.",
+      "Celebrate when they lift their head to look."
+    ],
+    "whyItHelps": "Motivates head control and introduces early self-discovery.",
+    "image": "mirror_tummy",
+    "durationMin": 4
+  },
+  {
+    "id": "act_reach_toy",
+    "ageBuckets": ["w10_13", "m3", "m4"],
+    "domains": ["motor"],
+    "title": "Reach for the toy",
+    "summary": "Offer a toy just within reach to invite grasping.",
+    "steps": [
+      "Hold a lightweight toy a little in front of your baby.",
+      "Let them swipe, then bring it close enough to grab.",
+      "Let them explore it with hands and mouth."
+    ],
+    "whyItHelps": "Develops reaching, grasping, and hand–eye coordination.",
+    "image": "reach_toy",
+    "durationMin": 5
+  },
+  {
+    "id": "act_bicycle_legs",
+    "ageBuckets": ["w10_13", "m3"],
+    "domains": ["motor"],
+    "title": "Bicycle legs",
+    "summary": "Gently move your baby's legs in a cycling motion.",
+    "steps": [
+      "Lay your baby on their back during a happy, alert time.",
+      "Hold their lower legs and gently move them in slow bicycle circles.",
+      "Talk or sing along with the rhythm."
+    ],
+    "whyItHelps": "Builds body awareness and can ease gas and fussiness.",
+    "image": "bicycle_legs",
+    "durationMin": 3
+  },
+  {
+    "id": "act_reading",
+    "ageBuckets": ["m3", "m4", "m5", "m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+    "domains": ["language", "cognitive"],
+    "title": "Read together",
+    "summary": "Share simple cloth or board books every day.",
+    "steps": [
+      "Snuggle up and hold a sturdy cloth or board book where your baby can see it.",
+      "Point to pictures and name them in your mother tongue; use voices and sounds.",
+      "Let your baby touch, pat, and (gently) mouth the book.",
+      "Follow their lead — it's fine to skip pages or stop early."
+    ],
+    "whyItHelps": "Daily reading, even in any language you speak at home, grows vocabulary, attention, and a love of books.",
+    "image": "reading",
+    "durationMin": 6
+  },
+  {
+    "id": "act_textures",
+    "ageBuckets": ["m4", "m5", "m6"],
+    "domains": ["cognitive", "motor"],
+    "title": "Texture exploration",
+    "summary": "Offer safe household objects with different textures to touch.",
+    "steps": [
+      "Gather safe items from around the house: a smooth steel katori, a wooden spoon, soft cotton cloth, a silk dupatta.",
+      "Let your baby touch and hold each one while you name the texture.",
+      "Watch closely and keep small or loose parts away."
+    ],
+    "whyItHelps": "Sensory exploration builds curiosity and fine-motor awareness.",
+    "image": "textures",
+    "durationMin": 5
+  },
+  {
+    "id": "act_roll_practice",
+    "ageBuckets": ["m4", "m5"],
+    "domains": ["motor"],
+    "title": "Roll practice",
+    "summary": "Encourage rolling with a tempting toy to the side.",
+    "steps": [
+      "Lay your baby on their back on a soft, safe surface.",
+      "Hold a favorite toy out to one side to encourage them to turn.",
+      "Give a gentle, supportive hand if they're nearly there.",
+      "Cheer every attempt."
+    ],
+    "whyItHelps": "Practices the coordination and strength needed to roll over.",
+    "image": "roll_practice",
+    "durationMin": 5
+  },
+  {
+    "id": "act_peekaboo",
+    "ageBuckets": ["m4", "m5", "m6", "m7"],
+    "domains": ["social", "cognitive"],
+    "title": "Peekaboo",
+    "summary": "Hide your face and reappear with a smile.",
+    "steps": [
+      "Cover your face with your hands or a light cloth.",
+      "Pause, then reveal your face with a cheerful 'peekaboo!'",
+      "Repeat and watch their anticipation grow."
+    ],
+    "whyItHelps": "Introduces object permanence and delights their social side.",
+    "image": "peekaboo",
+    "durationMin": 4
+  },
+  {
+    "id": "act_sitting_play",
+    "ageBuckets": ["m6", "m7", "m8"],
+    "domains": ["motor"],
+    "title": "Supported sitting play",
+    "summary": "Practice sitting with toys arranged in a circle.",
+    "steps": [
+      "Sit your baby up, using a cushion or your body for support.",
+      "Place a few toys within easy reach around them.",
+      "Let them reach and lean to build balance; stay close to catch them."
+    ],
+    "whyItHelps": "Strengthens core muscles and balance for independent sitting.",
+    "image": "sitting_play",
+    "durationMin": 6
+  },
+  {
+    "id": "act_pass_object",
+    "ageBuckets": ["m6", "m7"],
+    "domains": ["motor", "cognitive"],
+    "title": "Pass it along",
+    "summary": "Encourage moving a toy from one hand to the other.",
+    "steps": [
+      "Hand your baby a light, easy-to-grip toy.",
+      "Offer a second toy to the same hand so they pass the first across.",
+      "Name what they're doing as they explore."
+    ],
+    "whyItHelps": "Builds hand-to-hand transfer and coordination between both sides of the body.",
+    "image": "pass_object",
+    "durationMin": 5
+  },
+  {
+    "id": "act_mirror_play",
+    "ageBuckets": ["m6", "m7", "m8"],
+    "domains": ["social", "cognitive"],
+    "title": "Mirror play",
+    "summary": "Explore faces and expressions together in a mirror.",
+    "steps": [
+      "Sit together in front of a safe mirror.",
+      "Point to features: 'There's your nose! There's mine!'",
+      "Make expressions and sounds and watch their reaction."
+    ],
+    "whyItHelps": "Supports self-awareness, social engagement, and body vocabulary.",
+    "image": "mirror_play",
+    "durationMin": 5
+  },
+  {
+    "id": "act_hide_toy",
+    "ageBuckets": ["m8", "m9", "m10"],
+    "domains": ["cognitive"],
+    "title": "Where did it go?",
+    "summary": "Hide a toy under a cloth and let your baby find it.",
+    "steps": [
+      "Show your baby a favorite toy, then cover it with a light cloth while they watch.",
+      "Ask 'Where did it go?' and encourage them to uncover it.",
+      "Celebrate when they find it, then play again."
+    ],
+    "whyItHelps": "Reinforces object permanence and problem-solving.",
+    "image": "hide_toy",
+    "durationMin": 5
+  },
+  {
+    "id": "act_crawl_course",
+    "ageBuckets": ["m8", "m9", "m10"],
+    "domains": ["motor"],
+    "title": "Crawling course",
+    "summary": "Set up cushions and toys to motivate moving.",
+    "steps": [
+      "Place a favorite toy just out of reach to encourage crawling toward it.",
+      "Add soft cushions or tunnels for safe climbing and crawling over.",
+      "Stay close and cheer their efforts."
+    ],
+    "whyItHelps": "Builds strength, coordination, and confidence in moving independently.",
+    "image": "crawl_course",
+    "durationMin": 8
+  },
+  {
+    "id": "act_naming_game",
+    "ageBuckets": ["m8", "m9", "m10", "m11"],
+    "domains": ["language"],
+    "title": "Name it",
+    "summary": "Label objects, people, and actions all day long.",
+    "steps": [
+      "Point to and name everyday things: 'cup', 'dog', 'ball'.",
+      "Pause so your baby can babble back, then repeat the word.",
+      "Connect words to actions: 'up!', 'all done', 'bye-bye'."
+    ],
+    "whyItHelps": "Repeated, in-context words build the vocabulary behind first words.",
+    "image": "naming_game",
+    "durationMin": 5
+  },
+  {
+    "id": "act_stacking",
+    "ageBuckets": ["m10", "m11", "m12"],
+    "domains": ["motor", "cognitive"],
+    "title": "Stack and knock down",
+    "summary": "Build a small tower and let your baby topple it.",
+    "steps": [
+      "Stack two or three soft blocks or nesting steel katoris.",
+      "Invite your baby to knock them over — half the fun!",
+      "Hand them a block or katori to try stacking one themselves."
+    ],
+    "whyItHelps": "Develops hand control, cause-and-effect, and early problem-solving.",
+    "image": "stacking",
+    "durationMin": 6
+  },
+  {
+    "id": "act_cruising",
+    "ageBuckets": ["m10", "m11"],
+    "domains": ["motor"],
+    "title": "Cruising encouragement",
+    "summary": "Set up sturdy supports for side-stepping practice.",
+    "steps": [
+      "Arrange stable furniture close together at your baby's chest height.",
+      "Place toys along the way to encourage stepping sideways.",
+      "Stay alongside to steady them and prevent falls."
+    ],
+    "whyItHelps": "Builds the balance and leg strength that lead to walking.",
+    "image": "cruising",
+    "durationMin": 6
+  },
+  {
+    "id": "act_container_play",
+    "ageBuckets": ["m10", "m11", "m12"],
+    "domains": ["cognitive", "motor"],
+    "title": "In and out",
+    "summary": "Fill and empty a container with safe objects.",
+    "steps": [
+      "Give your baby a steel tumbler or katori and a few safe, chunky objects.",
+      "Show them how to drop objects in and tip them out.",
+      "Narrate 'in… and out!' as they play."
+    ],
+    "whyItHelps": "Teaches spatial concepts, fine-motor control, and cause-and-effect.",
+    "image": "container_play",
+    "durationMin": 6
+  },
+  {
+    "id": "act_patacake",
+    "ageBuckets": ["m10", "m11", "m12"],
+    "domains": ["social", "language"],
+    "title": "Pat-a-cake and gestures",
+    "summary": "Play clapping and waving games together.",
+    "steps": [
+      "Sing a clapping rhyme — 'taali bajao' or pat-a-cake — and guide your baby's hands to clap.",
+      "Practice waving 'ta-ta'/bye-bye and folding hands for namaste at natural moments.",
+      "Pause to let them try the gesture themselves."
+    ],
+    "whyItHelps": "Pairs language with gesture and builds joyful social turn-taking.",
+    "image": "patacake",
+    "durationMin": 5
+  },
+  {
+    "id": "act_point_name",
+    "ageBuckets": ["m11", "m12"],
+    "domains": ["language"],
+    "title": "Point and name",
+    "summary": "Follow your baby's pointing and supply the words.",
+    "steps": [
+      "When your baby points or looks at something, name it for them.",
+      "Add a short comment: 'That's a dog. The dog says woof!'",
+      "Encourage them to point and 'ask' for things."
+    ],
+    "whyItHelps": "Shared attention and naming are powerful drivers of first words.",
+    "image": "point_name",
+    "durationMin": 5
+  },
+  {
+    "id": "act_malish",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6", "w7_9", "w10_13", "m3"],
+    "domains": ["motor", "social"],
+    "title": "Daily oil malish",
+    "summary": "A gentle oil massage before bath — a calming Indian routine that supports body awareness and bonding.",
+    "steps": [
+      "Warm a little baby-safe oil between your palms in a warm, draught-free room.",
+      "With light, slow strokes, massage the legs, arms, back, and tummy — never pressing on the soft spot or spine hard.",
+      "Talk or sing softly and watch their cues; stop if they fuss.",
+      "Keep it short for newborns and follow with a warm bath."
+    ],
+    "whyItHelps": "Loving touch soothes baby, supports body awareness and circulation, and is a treasured bonding routine in Indian homes.",
+    "image": "malish",
+    "durationMin": 8
+  },
+  {
+    "id": "act_floor_mat_play",
+    "ageBuckets": ["m3", "m4", "m5", "m6", "m7", "m8"],
+    "domains": ["motor", "cognitive"],
+    "title": "Floor play on a mat",
+    "summary": "Lots of free time on a firm mat or dhurrie is the best gym for rolling, sitting, and crawling.",
+    "steps": [
+      "Spread a clean, firm mat or dhurrie on the floor in a safe, open space.",
+      "Lay baby down with a few toys just within reach to tempt rolling and reaching.",
+      "Let them move freely — skip walkers and propped seats, which slow motor practice.",
+      "Stay close and join them at their level."
+    ],
+    "whyItHelps": "Open floor time on a firm surface gives babies the freedom to practise rolling, sitting, and crawling on their own timeline.",
+    "image": "floor_mat_play",
+    "durationMin": 10
+  },
+  {
+    "id": "act_self_feeding",
+    "ageBuckets": ["m7", "m8", "m9", "m10", "m11", "m12"],
+    "domains": ["motor", "cognitive"],
+    "title": "Self-feeding finger foods",
+    "summary": "Let baby pick up soft finger foods themselves — messy, but great for the pincer grasp.",
+    "steps": [
+      "Once baby sits well, offer soft finger foods: small pieces of idli, soft roti, ripe banana, or steamed carrot.",
+      "Sit with them and let them grasp and bring food to their mouth — expect mess!",
+      "Offer water in a small katori or cup.",
+      "Always supervise closely; avoid hard, round, or whole nuts (choking risk)."
+    ],
+    "whyItHelps": "Self-feeding builds the pincer grasp, hand-to-mouth coordination, and a happy, independent relationship with food.",
+    "image": "self_feeding",
+    "durationMin": 15
+  }
+]

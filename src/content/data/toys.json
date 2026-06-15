@@ -1,0 +1,137 @@
+[
+  {
+    "id": "toy_contrast_book",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6", "w7_9"],
+    "domains": ["cognitive", "language"],
+    "title": "High-contrast cloth book",
+    "description": "A soft book of bold black-and-white patterns and simple shapes.",
+    "benefit": "Engages newborn vision and introduces early book sharing.",
+    "image": "toy_contrast_book"
+  },
+  {
+    "id": "toy_mirror",
+    "ageBuckets": ["w0_1", "w2_3", "w4_6", "w7_9", "w10_13", "m3", "m4", "m5", "m6"],
+    "domains": ["social", "cognitive"],
+    "title": "Baby-safe mirror",
+    "description": "An unbreakable, freestanding mirror for floor and tummy time.",
+    "benefit": "Encourages head control and early self-discovery.",
+    "image": "toy_mirror"
+  },
+  {
+    "id": "toy_rattle",
+    "ageBuckets": ["w4_6", "w7_9", "w10_13", "m3", "m4"],
+    "domains": ["motor", "cognitive"],
+    "title": "Jhunjhuna (soft rattle)",
+    "description": "A lightweight, easy-to-hold rattle or jhunjhuna that makes a gentle sound.",
+    "benefit": "Builds grasp and links sound with cause and effect.",
+    "image": "toy_rattle"
+  },
+  {
+    "id": "toy_play_gym",
+    "ageBuckets": ["w4_6", "w7_9", "w10_13", "m3", "m4"],
+    "domains": ["motor", "cognitive"],
+    "title": "Activity play gym",
+    "description": "A padded mat with dangling toys to bat and reach for.",
+    "benefit": "Encourages reaching, batting, and tummy time.",
+    "image": "toy_play_gym"
+  },
+  {
+    "id": "toy_crinkle",
+    "ageBuckets": ["w10_13", "m3", "m4", "m5"],
+    "domains": ["motor", "cognitive"],
+    "title": "Crinkle sensory toy",
+    "description": "A soft fabric toy with crinkle sounds and varied textures.",
+    "benefit": "Rewards grasping with sound and offers rich sensory exploration.",
+    "image": "toy_crinkle"
+  },
+  {
+    "id": "toy_teether",
+    "ageBuckets": ["m3", "m4", "m5", "m6", "m7"],
+    "domains": ["motor"],
+    "title": "Easy-grip teether",
+    "description": "A safe, chewable teether shaped for little hands.",
+    "benefit": "Soothes gums and develops grasp and hand-to-mouth control.",
+    "image": "toy_teether"
+  },
+  {
+    "id": "toy_ball",
+    "ageBuckets": ["m4", "m5", "m6", "m7"],
+    "domains": ["motor"],
+    "title": "Soft sensory ball",
+    "description": "A squishy, textured ball that's easy to grab and pass.",
+    "benefit": "Builds two-handed grasp and hand-to-hand transfer.",
+    "image": "toy_ball"
+  },
+  {
+    "id": "toy_stacking",
+    "ageBuckets": ["m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+    "domains": ["cognitive", "motor"],
+    "title": "Stacking cups or katoris",
+    "description": "Nesting cups, steel katoris, or a ring stacker in graduated sizes.",
+    "benefit": "Teaches size, order, and fine-motor control through stack-and-topple play.",
+    "image": "toy_stacking"
+  },
+  {
+    "id": "toy_board_books",
+    "ageBuckets": ["m4", "m5", "m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+    "domains": ["language", "cognitive"],
+    "title": "Cloth or board books",
+    "description": "Soft cloth or thick-page board books with simple pictures — bilingual ones are great.",
+    "benefit": "Grows vocabulary, attention, and a love of reading.",
+    "image": "toy_board_books"
+  },
+  {
+    "id": "toy_soft_blocks",
+    "ageBuckets": ["m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+    "domains": ["motor", "cognitive"],
+    "title": "Soft stacking blocks",
+    "description": "Lightweight fabric or foam blocks that are safe to mouth and throw.",
+    "benefit": "Supports grasping, stacking, and early cause-and-effect.",
+    "image": "toy_soft_blocks"
+  },
+  {
+    "id": "toy_busy",
+    "ageBuckets": ["m8", "m9", "m10", "m11", "m12"],
+    "domains": ["cognitive"],
+    "title": "Cause-and-effect busy toy",
+    "description": "A toy with buttons, flaps, or pop-ups that respond to a push.",
+    "benefit": "Rewards exploration and teaches that actions make things happen.",
+    "image": "toy_busy"
+  },
+  {
+    "id": "toy_nesting",
+    "ageBuckets": ["m9", "m10", "m11", "m12"],
+    "domains": ["cognitive", "motor"],
+    "title": "Nesting and container toy",
+    "description": "Cups or boxes to fill, empty, and fit inside one another.",
+    "benefit": "Builds spatial reasoning and in-and-out fine-motor play.",
+    "image": "toy_nesting"
+  },
+  {
+    "id": "toy_push",
+    "ageBuckets": ["m10", "m11", "m12"],
+    "domains": ["motor"],
+    "title": "Push or roll toy",
+    "description": "A sturdy push toy or rolling ball to chase and move.",
+    "benefit": "Encourages cruising, crawling, and early walking.",
+    "image": "toy_push"
+  },
+  {
+    "id": "toy_music",
+    "ageBuckets": ["m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+    "domains": ["language", "cognitive"],
+    "title": "Simple musical shakers",
+    "description": "Baby-safe shakers, manjira (bells), or a small dholak to make sounds with.",
+    "benefit": "Connects action with sound and supports rhythm and listening.",
+    "image": "toy_music"
+  },
+  {
+    "id": "toy_household",
+    "ageBuckets": ["m6", "m7", "m8", "m9", "m10", "m11", "m12"],
+    "domains": ["cognitive", "motor"],
+    "title": "Safe kitchen items",
+    "description": "Steel cups, katoris, a small lid, and a wooden spoon — the best first toys are already in your kitchen.",
+    "benefit": "Free, endlessly interesting, and great for banging, filling, emptying, and stacking. Check for sharp edges and small parts.",
+    "image": "toy_household"
+  }
+]

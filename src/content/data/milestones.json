@@ -1,0 +1,87 @@
+[
+  { "id": "mst_w0_1_motor", "ageBucket": "w0_1", "domain": "motor", "title": "Turns head side to side", "description": "Lying on a firm bed or mat, briefly turns their head to each side.", "typicalRange": "From birth", "rangeNote": "Newborn reflexes vary day to day." },
+  { "id": "mst_w0_1_cognitive", "ageBucket": "w0_1", "domain": "cognitive", "title": "Focuses on faces up close", "description": "Looks at a face held about a hand-span away (8–12 inches / 20–30 cm).", "typicalRange": "From birth", "rangeNote": "Newborns see best at close range — during feeds is perfect." },
+  { "id": "mst_w0_1_social", "ageBucket": "w0_1", "domain": "social", "title": "Calms when comforted", "description": "Settles when held, rocked, swaddled, or spoken to gently.", "typicalRange": "From birth", "rangeNote": "Soothing takes practice for both of you." },
+  { "id": "mst_w0_1_language", "ageBucket": "w0_1", "domain": "language", "title": "Reacts to loud sounds", "description": "Startles, blinks, or stills in response to a sudden sound.", "typicalRange": "From birth", "rangeNote": "A startle (Moro) reflex is normal and healthy." },
+
+  { "id": "mst_w2_3_motor", "ageBucket": "w2_3", "domain": "motor", "title": "Moves arms and legs actively", "description": "Kicks and moves both arms and legs when awake and content.", "typicalRange": "0–1 month" },
+  { "id": "mst_w2_3_cognitive", "ageBucket": "w2_3", "domain": "cognitive", "title": "Briefly watches a face", "description": "Holds their gaze on your face for a moment during quiet alert time.", "typicalRange": "0–6 weeks" },
+  { "id": "mst_w2_3_social", "ageBucket": "w2_3", "domain": "social", "title": "Begins a feeding rhythm", "description": "Starts to settle into more predictable feeding and sleep patterns.", "typicalRange": "2–6 weeks", "rangeNote": "Patterns are still loose this early — feed on demand." },
+  { "id": "mst_w2_3_language", "ageBucket": "w2_3", "domain": "language", "title": "Quiets to a familiar voice", "description": "Calms or grows still when they hear a familiar, soothing voice.", "typicalRange": "0–6 weeks" },
+
+  { "id": "mst_w4_6_motor", "ageBucket": "w4_6", "domain": "motor", "title": "Lifts head briefly on tummy", "description": "Raises their head for a few seconds during tummy time on a firm mat.", "typicalRange": "4–10 weeks", "rangeNote": "Short, frequent tummy time on the floor helps." },
+  { "id": "mst_w4_6_cognitive", "ageBucket": "w4_6", "domain": "cognitive", "title": "Follows an object to midline", "description": "Tracks a slowly moving object with their eyes toward the centre of their body.", "typicalRange": "1–3 months" },
+  { "id": "mst_w4_6_social", "ageBucket": "w4_6", "domain": "social", "title": "First social smile", "description": "Smiles in response to your face or voice — a true social smile.", "typicalRange": "4–10 weeks", "rangeNote": "Often appears around 6–8 weeks; a key milestone in the IAP and TDSC charts." },
+  { "id": "mst_w4_6_language", "ageBucket": "w4_6", "domain": "language", "title": "Makes throaty sounds", "description": "Begins making soft gurgling and cooing sounds beyond crying.", "typicalRange": "1–3 months" },
+
+  { "id": "mst_w7_9_motor", "ageBucket": "w7_9", "domain": "motor", "title": "Holds head at 45°", "description": "Lifts and holds their head at about a 45-degree angle during tummy time.", "typicalRange": "6–12 weeks" },
+  { "id": "mst_w7_9_cognitive", "ageBucket": "w7_9", "domain": "cognitive", "title": "Watches faces intently", "description": "Studies faces and follows moving people or objects with interest.", "typicalRange": "1–3 months" },
+  { "id": "mst_w7_9_social", "ageBucket": "w7_9", "domain": "social", "title": "Smiles back at people", "description": "Smiles responsively when family members smile and talk to them.", "typicalRange": "6–12 weeks" },
+  { "id": "mst_w7_9_language", "ageBucket": "w7_9", "domain": "language", "title": "Coos with vowel sounds", "description": "Makes 'ooh' and 'aah' cooing sounds, often during back-and-forth play.", "typicalRange": "6 weeks – 4 months" },
+
+  { "id": "mst_w10_13_motor", "ageBucket": "w10_13", "domain": "motor", "title": "Pushes up on forearms", "description": "Lifts head and chest on forearms during tummy time on the floor.", "typicalRange": "2–4 months", "rangeNote": "Strength builds week by week with daily floor play." },
+  { "id": "mst_w10_13_motor2", "ageBucket": "w10_13", "domain": "motor", "title": "Opens and closes hands", "description": "Unclenches fists and may swipe at dangling toys.", "typicalRange": "2–4 months" },
+  { "id": "mst_w10_13_cognitive", "ageBucket": "w10_13", "domain": "cognitive", "title": "Follows across midline", "description": "Tracks a moving object smoothly from one side to the other.", "typicalRange": "2–4 months" },
+  { "id": "mst_w10_13_social", "ageBucket": "w10_13", "domain": "social", "title": "Enjoys interaction", "description": "Smiles spontaneously and looks for social play with familiar people.", "typicalRange": "2–4 months", "rangeNote": "Some babies laugh around now too." },
+  { "id": "mst_w10_13_language", "ageBucket": "w10_13", "domain": "language", "title": "Coos and gurgles", "description": "Makes a wider range of cooing and gurgling sounds during play.", "typicalRange": "2–4 months" },
+
+  { "id": "mst_m3_motor", "ageBucket": "m3", "domain": "motor", "title": "Holds head steady upright", "description": "Keeps their head steady and upright when held in a sitting position.", "typicalRange": "2–4 months" },
+  { "id": "mst_m3_motor2", "ageBucket": "m3", "domain": "motor", "title": "Brings hands to mouth", "description": "Discovers their hands and brings them together and to their mouth.", "typicalRange": "2–4 months" },
+  { "id": "mst_m3_cognitive", "ageBucket": "m3", "domain": "cognitive", "title": "Reaches for a dangling toy", "description": "Swipes at or reaches toward a toy held within reach.", "typicalRange": "3–5 months" },
+  { "id": "mst_m3_social", "ageBucket": "m3", "domain": "social", "title": "Laughs out loud", "description": "Giggles and laughs during play, peekaboo, and tickles.", "typicalRange": "3–5 months", "rangeNote": "First laughs often arrive 3–4 months." },
+  { "id": "mst_m3_language", "ageBucket": "m3", "domain": "language", "title": "Takes turns 'talking'", "description": "Coos and pauses as if waiting for your reply in a back-and-forth.", "typicalRange": "2–5 months" },
+
+  { "id": "mst_m4_motor", "ageBucket": "m4", "domain": "motor", "title": "Pushes up on elbows", "description": "On their tummy, props up on elbows with head lifted and steady.", "typicalRange": "3–5 months" },
+  { "id": "mst_m4_motor2", "ageBucket": "m4", "domain": "motor", "title": "May roll tummy to back", "description": "Some babies begin rolling from tummy to back.", "typicalRange": "4–7 months", "rangeNote": "Rolling commonly starts 4–6 months — give plenty of floor time." },
+  { "id": "mst_m4_cognitive", "ageBucket": "m4", "domain": "cognitive", "title": "Grabs toys", "description": "Reaches for and grasps a toy, then brings it toward their mouth.", "typicalRange": "3–5 months" },
+  { "id": "mst_m4_social", "ageBucket": "m4", "domain": "social", "title": "Enjoys play with people", "description": "Smiles, coos, and may fuss when enjoyable play stops.", "typicalRange": "3–5 months" },
+  { "id": "mst_m4_language", "ageBucket": "m4", "domain": "language", "title": "Babbles with expression", "description": "Babbles and copies some sounds and tones they hear at home.", "typicalRange": "3–6 months" },
+
+  { "id": "mst_m5_motor", "ageBucket": "m5", "domain": "motor", "title": "Rolls tummy to back", "description": "Rolls from their tummy onto their back with more control.", "typicalRange": "4–7 months" },
+  { "id": "mst_m5_motor2", "ageBucket": "m5", "domain": "motor", "title": "Explores with mouth", "description": "Brings objects to their mouth to investigate them.", "typicalRange": "4–7 months", "rangeNote": "Keep small objects well out of reach — mouthing is constant now." },
+  { "id": "mst_m5_cognitive", "ageBucket": "m5", "domain": "cognitive", "title": "Reaches for nearby toys", "description": "Deliberately reaches for and explores toys with hands and mouth.", "typicalRange": "4–6 months" },
+  { "id": "mst_m5_social", "ageBucket": "m5", "domain": "social", "title": "Recognizes familiar people", "description": "Lights up for parents and grandparents, and may study new faces.", "typicalRange": "4–7 months" },
+  { "id": "mst_m5_language", "ageBucket": "m5", "domain": "language", "title": "Blows raspberries", "description": "Makes playful raspberry and squealing sounds.", "typicalRange": "4–7 months" },
+
+  { "id": "mst_m6_motor", "ageBucket": "m6", "domain": "motor", "title": "Sits with support", "description": "Sits propped against a cushion or your body, briefly steady with hands down for balance.", "typicalRange": "5–8 months", "rangeNote": "Floor play on a firm mat or dhurrie helps; independent sitting often follows by 6–8 months." },
+  { "id": "mst_m6_motor2", "ageBucket": "m6", "domain": "motor", "title": "Passes objects hand to hand", "description": "Transfers a toy from one hand to the other.", "typicalRange": "5–7 months" },
+  { "id": "mst_m6_cognitive", "ageBucket": "m6", "domain": "cognitive", "title": "Looks for partly hidden things", "description": "Searches for a toy that is partly covered by a cloth.", "typicalRange": "5–8 months" },
+  { "id": "mst_m6_social", "ageBucket": "m6", "domain": "social", "title": "Enjoys the mirror", "description": "Knows familiar faces and enjoys looking at themselves in a mirror.", "typicalRange": "5–8 months" },
+  { "id": "mst_m6_language", "ageBucket": "m6", "domain": "language", "title": "Babbles strings of sounds", "description": "Strings sounds together like 'ba-ba' or 'ma-ma' (not yet meaning a person).", "typicalRange": "5–8 months" },
+
+  { "id": "mst_m7_motor", "ageBucket": "m7", "domain": "motor", "title": "Sits without support", "description": "Sits steadily on the floor on their own with hands free to play.", "typicalRange": "6–9 months", "rangeNote": "Indian and WHO norms place steady sitting anywhere across 6–9 months." },
+  { "id": "mst_m7_motor2", "ageBucket": "m7", "domain": "motor", "title": "Rakes small objects", "description": "Uses a raking motion to draw small objects toward themselves.", "typicalRange": "6–9 months" },
+  { "id": "mst_m7_cognitive", "ageBucket": "m7", "domain": "cognitive", "title": "Explores by banging", "description": "Investigates objects by banging, shaking, and mouthing them.", "typicalRange": "6–9 months" },
+  { "id": "mst_m7_social", "ageBucket": "m7", "domain": "social", "title": "Responds to emotions", "description": "Reacts to others' tone and facial expressions; may be wary of strangers.", "typicalRange": "6–9 months" },
+  { "id": "mst_m7_language", "ageBucket": "m7", "domain": "language", "title": "Responds to their name", "description": "Turns toward you when you call their name.", "typicalRange": "6–9 months" },
+
+  { "id": "mst_m8_motor", "ageBucket": "m8", "domain": "motor", "title": "Rocks on hands and knees", "description": "Gets onto hands and knees and rocks, or scoots to move.", "typicalRange": "7–10 months" },
+  { "id": "mst_m8_motor2", "ageBucket": "m8", "domain": "motor", "title": "Picks up with finger and thumb", "description": "Begins using an emerging pincer grasp for small bits of soft food or toys.", "typicalRange": "7–10 months" },
+  { "id": "mst_m8_cognitive", "ageBucket": "m8", "domain": "cognitive", "title": "Looks for hidden objects", "description": "Searches for a fully hidden toy — a sign of object permanence.", "typicalRange": "7–10 months" },
+  { "id": "mst_m8_social", "ageBucket": "m8", "domain": "social", "title": "Prefers caregivers", "description": "Shows a clear preference for familiar people; stranger wariness is common.", "typicalRange": "6–10 months", "rangeNote": "Separation anxiety is a normal, healthy sign of attachment." },
+  { "id": "mst_m8_language", "ageBucket": "m8", "domain": "language", "title": "Babbles 'mamama', 'dadada'", "description": "Repeats consonant–vowel chains in long babbling strings.", "typicalRange": "6–10 months" },
+
+  { "id": "mst_m9_motor", "ageBucket": "m9", "domain": "motor", "title": "Crawls or scoots", "description": "Moves across the floor by crawling, scooting, or rolling.", "typicalRange": "7–11 months", "rangeNote": "Crawling styles and timing vary widely; some babies skip crawling altogether." },
+  { "id": "mst_m9_motor2", "ageBucket": "m9", "domain": "motor", "title": "Uses a pincer grasp", "description": "Picks up small objects neatly between thumb and forefinger.", "typicalRange": "8–12 months" },
+  { "id": "mst_m9_cognitive", "ageBucket": "m9", "domain": "cognitive", "title": "Plays peekaboo", "description": "Enjoys peekaboo and watches where a dropped object goes.", "typicalRange": "7–10 months" },
+  { "id": "mst_m9_social", "ageBucket": "m9", "domain": "social", "title": "Has favorite people and toys", "description": "Shows clear preferences and may be clingy with favorites.", "typicalRange": "7–11 months" },
+  { "id": "mst_m9_language", "ageBucket": "m9", "domain": "language", "title": "Understands 'no'", "description": "Pauses or reacts when they hear 'no' or 'nahi'; copies sounds and gestures.", "typicalRange": "7–11 months" },
+
+  { "id": "mst_m10_motor", "ageBucket": "m10", "domain": "motor", "title": "Pulls to stand", "description": "Pulls up to standing while holding onto furniture or your hands.", "typicalRange": "8–11 months" },
+  { "id": "mst_m10_motor2", "ageBucket": "m10", "domain": "motor", "title": "Bangs two objects together", "description": "Holds an object in each hand and bangs them together.", "typicalRange": "8–11 months" },
+  { "id": "mst_m10_cognitive", "ageBucket": "m10", "domain": "cognitive", "title": "Explores how things work", "description": "Pokes, drops, and turns objects to see what happens.", "typicalRange": "9–12 months" },
+  { "id": "mst_m10_social", "ageBucket": "m10", "domain": "social", "title": "Plays interactive games", "description": "Enjoys back-and-forth games and may begin waving 'ta-ta' / bye-bye.", "typicalRange": "8–12 months" },
+  { "id": "mst_m10_language", "ageBucket": "m10", "domain": "language", "title": "Babbles like conversation", "description": "Babbles with the rhythm and tone of real speech in your home language.", "typicalRange": "8–12 months" },
+
+  { "id": "mst_m11_motor", "ageBucket": "m11", "domain": "motor", "title": "Cruises along furniture", "description": "Steps sideways while holding onto furniture for support.", "typicalRange": "9–13 months" },
+  { "id": "mst_m11_motor2", "ageBucket": "m11", "domain": "motor", "title": "Puts objects in a container", "description": "Drops or places objects into a cup, katori, or container.", "typicalRange": "9–13 months" },
+  { "id": "mst_m11_cognitive", "ageBucket": "m11", "domain": "cognitive", "title": "Imitates gestures", "description": "Copies simple gestures like clapping, namaste, or waving.", "typicalRange": "9–13 months" },
+  { "id": "mst_m11_social", "ageBucket": "m11", "domain": "social", "title": "Repeats actions for attention", "description": "Repeats sounds or actions that get a reaction from you.", "typicalRange": "9–12 months" },
+  { "id": "mst_m11_language", "ageBucket": "m11", "domain": "language", "title": "Uses simple gestures", "description": "Shakes head for 'no' or waves; may say one clear word.", "typicalRange": "9–13 months" },
+
+  { "id": "mst_m12_motor", "ageBucket": "m12", "domain": "motor", "title": "Stands alone, may step", "description": "Stands without support briefly and may take first steps.", "typicalRange": "9–15 months", "rangeNote": "Independent walking ranges widely, often 12–15 months — later is still normal." },
+  { "id": "mst_m12_motor2", "ageBucket": "m12", "domain": "motor", "title": "Neat pincer grasp", "description": "Picks up tiny objects precisely with thumb and fingertip.", "typicalRange": "10–14 months" },
+  { "id": "mst_m12_cognitive", "ageBucket": "m12", "domain": "cognitive", "title": "Follows simple directions", "description": "Follows a simple request, especially with a gesture (e.g. 'give me', 'do').", "typicalRange": "10–14 months" },
+  { "id": "mst_m12_social", "ageBucket": "m12", "domain": "social", "title": "Plays social games", "description": "Claps, hands you a book, does namaste, and copies you during play.", "typicalRange": "10–14 months" },
+  { "id": "mst_m12_language", "ageBucket": "m12", "domain": "language", "title": "Says first words", "description": "Says one or more words like 'mama', 'papa', 'dada', or 'nahi' with meaning.", "typicalRange": "9–14 months" }
+]
